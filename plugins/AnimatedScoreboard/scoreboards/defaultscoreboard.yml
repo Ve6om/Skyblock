@@ -53,13 +53,13 @@ display:
       score: 96
     line-5:
       text:
-      - '&7Island Level &b%iridiumskyblock_island_level%'
+      - '&7Island Level: &b%iridiumskyblock_island_level%'
       random: false
       interval: 20
       score: 95
     line-6:
       text:
-      - '&7Rank: &d%iridiumskyblock_island_value_rank%'
+      - '&7Rank: &d#%iridiumskyblock_island_value_rank%'
       random: false
       interval: 20
       score: 94
@@ -71,7 +71,7 @@ display:
       score: 93
     line-8:
       text:
-      - '&3☆ &b&lPLAYER STATS'
+      - '&3☆ &b&lPLAYER STATS:'
       random: false
       interval: 0
       score: 92
@@ -83,7 +83,7 @@ display:
       score: 91
     line-10:
       text:
-      - '&bRank: %vault_prefix%'
+      - '&7Rank: %vault_prefix%'
       random: false
       interval: 20
       score: 90
@@ -95,7 +95,7 @@ display:
       score: 89
     line-12:
       text:
-      - '&3☆ &b&lMINES CAPACITY'
+      - '&3☆ &b&lMINES CAPACITY:'
       random: false
       interval: 0
       score: 88

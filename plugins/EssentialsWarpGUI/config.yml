@@ -1,7 +1,7 @@
 version: '3.1'
 
 # The title of the inventory
-inventory-title: '&3Warps'
+inventory-title: '&b&lSkyBlock Warps'
 
 # The title of the inventory that will be displayed on pages 2+
 inventory-title-page: Warps - Page {page}
@@ -24,8 +24,8 @@ inventory-offset-left: 1
 inventory-offset-bottom: 1
 
 # Fill the empty slots with some material
-inventory-background-material: air
-inventory-offset-material: air
+inventory-background-material: white_stained_glass_pane
+inventory-offset-material:  gray_stained_glass_pane
 
 # A bar at the bottom will be displayed with a button to switch to the next page in case there are too many items
 next-page-bar-material: GRAY_STAINED_GLASS_PANE
