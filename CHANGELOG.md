@@ -13,6 +13,8 @@ All notable changes to this project will be documented in this file.
 - Updated all Papi expansions.
 - Updated LuckPerms data and a few permissions.
 - Updated worlds using 1.20.6 server to ensure all chunk data is up-to-date.
+- Updated /warps GUI to give it a revamped look.
+- Updated scoreboard to make it more consistent.
 - Added plugin CoreProtect.
 - Added plugin SilkSpawners.
 - Added plugin SynkLibs.
@@ -22,6 +24,7 @@ All notable changes to this project will be documented in this file.
 - Removed plugin Holographic Displays; no longer supported, replaced.
 - Removed plugin QuickBoard; no longer supported, replaced.
 - Removed old Essentials_WarpGUI config folder.
+- Removed some populated database files.
 - Fixed EconomyShopGUI language files.
 - Fixed Citizen NPC shop commands.
 - Fixed null regen value in IridiumSkyblock schematics.yml.
